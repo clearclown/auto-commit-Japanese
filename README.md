@@ -54,5 +54,3 @@ Make sure you have the latest version of rust installed (use [rustup](https://ru
 ## License
 
 This project is open-sourced under the MIT license. See [the License file](LICENSE) for more information.
-
-日本語ver追加
