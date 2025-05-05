@@ -12,6 +12,8 @@ authors = ["Miguel Piedrafita <soy@miguelpiedrafita.com>"]
 
 [dependencies]
 rand = "0.8.5"
+lazy_static = "1.4"
+anyhow = "1"
 serde = "1.0.164"
 spinners = "4.1.0"
 question = "0.2.2"
